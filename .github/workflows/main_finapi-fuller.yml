@@ -58,4 +58,4 @@ jobs:
         with:
           app-name: 'finapi-fuller'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1BB65029E2B742808E1CDA98193AEDAD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_55093DEF41B34FE38F585F27D1C11A27 }}
